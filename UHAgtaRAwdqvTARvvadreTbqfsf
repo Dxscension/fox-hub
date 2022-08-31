@@ -1,4 +1,4 @@
-rconsoleclear()
+rconsoleclear();
 
 ({[[
     This file contains unreleased luaQ whitelist system (V2.0)
