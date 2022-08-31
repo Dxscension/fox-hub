@@ -1,3 +1,5 @@
+rconsoleclear()
+
 ({[[
     This file contains unreleased luaQ whitelist system (V2.0)
 	  _                         ____       __      __  ___  
